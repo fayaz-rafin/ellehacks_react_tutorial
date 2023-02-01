@@ -1,6 +1,6 @@
 import './App.css';
-import './navbar';
-import Navbar from './navbar';
+import './Navbar';
+import Navbar from './Navbar';
 
 
 function App() {
